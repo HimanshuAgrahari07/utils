@@ -60,3 +60,7 @@ mongorestore --uri mongodb+srv:y//servername:<password>@cluster.mxqe5.mongodb.ne
 ```
 
 Here archive is the file /path/fileName
+
+
+## Other ref
+- https://medium.com/@mustafaburakaydiin/how-to-backup-and-restore-a-mongodb-database-in-a-docker-container-a7242ba0994f
